@@ -8,9 +8,8 @@ $hijau = "\e[92m";
 $merah = "\e[91m";
 // coding
 echo "$hijau  ×============================================×\n";
-echo "$hijau  [  Author  : Pranasonix                      ]\n";
-echo "$hijau  [  fungsi  : Mengaktifkan Penjaga Profile FB ]\n";
 echo "$hijau  [  Youtube : Pranasonix                      ]\n";
+echo "$hijau  [  fungsi  : Mengaktifkan Penjaga Profile FB ]\n";
 echo "$hijau  ×============================================ï¿½\n\n";
 echo "$input $magenta MASUKAN TOKEN FB KAMU>> : ";
 $token= trim(fgets(STDIN));
